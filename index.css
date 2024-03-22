@@ -1,0 +1,64 @@
+.logo {
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+.logo h3{
+
+    left: 100px;
+    font-size: medium;
+}
+
+.nav{
+    position: absolute;
+    left: 350px;
+  
+}
+.nav ul li{
+    display: inline-block;
+    align-items: center;
+    left: 500px;
+    right: 500px;
+    font-size: small;
+    margin: 10px;
+    
+}
+.search-icon ul{
+    position: absolute;
+    right: 100px;
+    
+}
+.search-icon ul li{
+   display: inline-block;
+   font-size: small;
+   
+}
+
+
+.content {
+    position: absolute;
+    align-items: center;
+    left: 300px;
+    right: 300px;
+    top: 50px;
+    font-size: xx-large;
+}
+.Ready.butn{
+    font-size: large;
+}
+.Ready{
+    position: absolute;
+    left: 550px;
+    top: 163px;
+    font-size: small;
+}
+
+.lastcontent {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    font-size: small;
+}
+ .lastcontent h6{
+    left: 350px;
+}
